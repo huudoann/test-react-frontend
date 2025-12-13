@@ -100,10 +100,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="app-container">
-          <h1 className="app-title">Quản Lý Người Dùng</h1>
+          <h1 className="app-title">Quản Lý Người Dùng V2</h1>
           <p className="app-subtitle">Tạo, chỉnh sửa và quản lý người dùng</p>
           <div className="version-badge">
-            🚀 v1.1.0 - Auto Redeploy Test | Build: {new Date().toLocaleString('vi-VN')}
+            🚀 v1.2.0 - Auto Redeploy Test | Build: {new Date().toLocaleString('vi-VN')}
           </div>
 
           {/* Error Message */}
@@ -266,5 +266,6 @@ function App() {
 }
 
 export default App;
-/ /   t e s t  
+/ /   t e s t 
+ 
  
