@@ -102,6 +102,9 @@ function App() {
         <div className="app-container">
           <h1 className="app-title">Quản Lý Người Dùng</h1>
           <p className="app-subtitle">Tạo, chỉnh sửa và quản lý người dùng</p>
+          <div className="version-badge">
+            🚀 v1.1.0 - Auto Redeploy Test | Build: {new Date().toLocaleString('vi-VN')}
+          </div>
 
           {/* Error Message */}
           {error && (
