@@ -100,10 +100,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="app-container">
-          <h1 className="app-title">Quản Lý Người Dùng V4</h1>
-          <p className="app-subtitle">Tạo, chỉnh sửa và quản lý người dùng một cách dễ dàng</p>
+          <h1 className="app-title">Quản Lý Người Dùng V4.1</h1>
+          <p className="app-subtitle">Giao diện mới với trải nghiệm người dùng được cải thiện</p>
           <div className="version-badge">
-            ✅ v4.0.0 - Status Update Test | Build: {new Date().toLocaleString('vi-VN')}
+            ✨ v4.1.0 - Enhanced UI Experience | Build: {new Date().toLocaleString('vi-VN')}
           </div>
 
           {/* Error Message */}

@@ -1,6 +1,6 @@
 {
   "name": "react-frontend-demo",
-  "version": "1.0.0",
+  "version": "4.1.0",
   "description": "React frontend demo for testing deployment",
   "private": true,
   "dependencies": {
